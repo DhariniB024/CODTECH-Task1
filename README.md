@@ -4,7 +4,7 @@ Name : Dharini B
 Company : CODTECH IT SOLUTIONS
 ID : CT6WTDS628
 Duration : NOVEMBER TO JANUARY 2025
-*Mentor :*N Santhosh
+*Mentor :*Muzammil Ahmed
 
 ## Overview Of The Project
 
